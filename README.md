@@ -30,11 +30,11 @@
    "login": "pablito@mail.ru",
    "password": "1234"
    }
-   ![img_2.png](img_2.png)
+  img_2.png
    Получаем TOKEN для дальнейших CRUD операций для роли "ADMIN".
 
 3) Копируем "accessToken" и вставляем его в Authorization
-   ![img_3.png](img_3.png)
+ img_3.png
 
 4) Далее можем пользоваться программой с правами "ADMIN"
 - (POST) http://localhost:8080/create - Создание Юзера
